@@ -1,0 +1,18 @@
+target
+var
+dependency-reduced-pom.xml
+logs
+
+*.class
+
+# Package Files #
+#*.jar
+*.war
+*.ear
+
+# idea files #
+*.iml
+*.ipr
+*.iws
+.idea/
+atlassian-ide-plugin.xml
